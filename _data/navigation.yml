@@ -2,13 +2,13 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
+  - title: "About(test)"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
+  - title: "Sample Posts(test)"
     url: /year-archive/
-  - title: "Sample Collections"
+  - title: "Sample Collections(test)"
     url: /collection-archive/
-  - title: "Sitemap"
+  - title: "Sitemap(test)"
     url: /sitemap/
-  - title: "Working Log"
+  - title: "Working Log(test)"
     url: /Working Log.md/
