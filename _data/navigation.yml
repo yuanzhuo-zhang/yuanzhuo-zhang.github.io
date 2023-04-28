@@ -11,4 +11,4 @@ main:
   - title: "Sitemap(test)"
     url: /sitemap/
   - title: "Working Log(test)"
-    url: /pages/
+    url: /_posts/Working Log.md
